@@ -3,20 +3,21 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+title: 世界因你而進步
+subtitle: blog.helloworld4u.com
+description: 希望所分享的各種相關資訊, 大家可以從這裡可以獲得些些小許的協助, 也算是回饋做法...會陸續的增加內容唷~
+keywords: 
+author: Bruce Huang
+language: zh-tw
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.helloworld4u.com
 root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+#permalink: :year/:month/:day/:title/
+permalink: :title/ 
+permalink_defaults: 
 
 # Directory
 source_dir: source
