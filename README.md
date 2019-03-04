@@ -2,12 +2,34 @@
 Build hexo blog for My blog, And other include transfer my google blogger and transfer log work
 
 # use rss to hexo _posts .MDs
-```
+```bash
 https://hexo.io/zh-tw/docs/migration
 ```
-
-# your a blogger rss
+# create a hexo blog
 ```bash
-https://blog.helloworld4u.com/feeds/posts/default?alt=rss&max-resultså10000
+hexo init blog
 ```
+
+# cd to your a blog folder
+```bash
+$ cd blog/
+```
+
+# install hexo-mirateor-rss in your blog folder
+```bash
+npm install hexo-migrator-rss --save
+```
+
+
+# defind your a blogger rss url and props, ex: this a url
+```bash
+https://blog.helloworld4u.com/feeds/posts/default?alt=rss&max-results=500
+
+```
+
+# hexo magrate rss
+```bash
+hexo migrate rss 'https://blog.helloworld4u.com/feeds/posts/default?alt=rss&max-results=500'
+```
+
 

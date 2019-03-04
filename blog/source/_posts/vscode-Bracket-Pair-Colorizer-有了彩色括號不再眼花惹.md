@@ -4,7 +4,7 @@ tags:
   - javascript
   - Nodejs
   - vscode
-date: 2018-10-29 16:24:36
+date: 2018-10-29 16:05:00
 ---
 
 code多了會對很多的括號們也一定會眼花, 今天在這不是要賣你藥吃, 吃了會一目十行百行, 因為你不是神童, 今天要來說一款好用Bracket Pair Colorizer外掛套件, 不廢言, 來吧.

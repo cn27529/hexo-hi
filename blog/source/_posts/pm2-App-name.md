@@ -4,7 +4,7 @@ tags:
   - Nodejs
   - pm2
   - vscode
-date: 2018-10-29 13:55:05
+date: 2018-05-22 18:21:00
 ---
 
 具[官方文件](http://pm2.keymetrics.io/docs/usage/quick-start/#42-starts)是長這樣

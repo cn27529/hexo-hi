@@ -3,7 +3,7 @@ title: 'Python, for in loop'
 tags:
   - Django
   - Python
-date: 2015-09-08 16:54:38
+date: 2015-09-08 16:54:00
 ---
 
 Python, for in 迴圈內的使用的forloop物件, 屬性有

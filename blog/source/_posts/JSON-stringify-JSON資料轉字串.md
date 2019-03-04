@@ -4,7 +4,7 @@ tags:
   - javascript
   - jQuery
   - JSON
-date: 2016-03-22 11:33:44
+date: 2016-03-22 11:32:00
 ---
 
 JSON.stringify(), JSON資料轉字串  <pre class="prettyprint">

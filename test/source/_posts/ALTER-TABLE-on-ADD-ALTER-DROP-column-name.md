@@ -3,7 +3,7 @@ title: 'ALTER TABLE on ADD, ALTER, DROP column_name'
 tags:
   - Database
   - MS-SQL
-date: 2016-03-25 13:42:57
+date: 2016-03-25 10:52:00
 ---
 
 常用的表格欄位新增異動語法 MS SQL 

@@ -7,7 +7,7 @@ tags:
   - javascript
   - Python
   - 線上工具
-date: 2016-03-18 11:35:07
+date: 2016-03-17 10:01:00
 ---
 
 dictionary, 字典是指有一組以上的 key 與 value 所組成不多說, 直接展示吧... <pre class="prettyprint">

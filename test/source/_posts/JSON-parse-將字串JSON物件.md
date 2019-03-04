@@ -4,7 +4,7 @@ tags:
   - javascript
   - jQuery
   - JSON
-date: 2016-03-22 11:34:29
+date: 2016-03-22 11:33:00
 ---
 
 JSON.parse(), 將字串JSON物件 <pre class="prettyprint">

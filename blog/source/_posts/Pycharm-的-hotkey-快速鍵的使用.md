@@ -5,7 +5,7 @@ tags:
   - Mac
   - Pycharm
   - Python
-date: 2015-09-29 17:22:35
+date: 2015-09-29 17:09:00
 ---
 
 剛開始使用Pycharm，介面與操作都很新鮮，也很陌生，來記錄一下hotkey，快速鍵的使用 

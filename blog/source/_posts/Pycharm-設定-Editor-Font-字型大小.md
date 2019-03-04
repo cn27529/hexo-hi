@@ -4,7 +4,7 @@ tags:
   - Django
   - Pycharm
   - Python
-date: 2015-09-30 17:02:42
+date: 2015-09-30 17:01:00
 ---
 
 File &gt; Settings

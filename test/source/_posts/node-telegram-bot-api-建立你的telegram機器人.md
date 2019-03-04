@@ -3,7 +3,7 @@ title: 'node-telegram-bot-api, 建立你的telegram機器人'
 tags:
   - Bot
   - TelegramBot
-date: 2018-06-05 21:41:49
+date: 2017-08-10 14:11:00
 ---
 
 登入telegram-web or telegram app 後選

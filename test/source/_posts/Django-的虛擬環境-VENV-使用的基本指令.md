@@ -4,7 +4,7 @@ tags:
   - Django
   - Mac
   - Python
-date: 2015-10-19 12:14:43
+date: 2015-09-28 19:48:00
 ---
 
 VENV是簡稱，全名是Virtualenv
